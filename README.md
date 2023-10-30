@@ -34,7 +34,7 @@ Dataset: [Diamonds Price Dataset](https://www.kaggle.com/datasets/amirhosseinmir
 
 Selanjutnya uraikanlah seluruh variabel atau fitur pada data. Sebagai contoh:  
 
-### Variabel-variabel pada Heart Failure Prediction Dataset adalah sebagai berikut:
+### Variabel-variabel pada Dataset adalah sebagai berikut:
 Kolom Deskripsi
 - ```carat``` = Berat berlian dalam karat	
 - ```cut``` = potongan kualitas pemotongan berlian
